@@ -1,2 +1,6 @@
-# goit-js-hw-02
-T1. Dealing with droids  T2. Format the message  T3. Checking spam  ﻿T4. Delivery of goods
+The homework was covered:
+
+- the principle of branching: instructions with if, switch operator, ternary operator
+- logical operators &&, ||, !
+- string methods: slice(), toLowerCase(), toUpperCase(), includes(), startsWith(), endsWith(), indexOf(), trim()
+- loops while, do…while, for
